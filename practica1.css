@@ -1,0 +1,54 @@
+h1 {
+color: black;
+font-style: inherit;
+border-top-style: solid;
+margin-block-end: 3%;
+background-color: bisque;
+border-bottom-left-radius: 50%;
+border-bottom-right-radius: 50%;
+text-align: center;
+}
+ul {
+    color: black;
+    font-style: initial;
+    font-size: 25px;
+    margin-top: 15%;
+    white-space: pre-line;
+    
+    
+
+}
+img {
+    height: 350px;
+    margin-left: 25%;
+    
+    
+    border-color: brown;
+    position:relative;
+    max-width:150hw ;
+    min-width: 150hw;
+}
+
+
+    
+ul li {
+    display: inline;
+}
+ul {
+    text-align: end;
+    text-underline-position: none;
+}
+
+
+    
+
+ul li {
+    text-align: end;
+
+}
+    
+
+
+    
+    
+
